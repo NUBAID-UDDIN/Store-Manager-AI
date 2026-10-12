@@ -102,7 +102,7 @@ store_manager_ai/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/store-manager-ai.git
+git clone https://github.com/NUBAID-UDDIN/Store-Manager-AI
 cd store-manager-ai
 ```
 
